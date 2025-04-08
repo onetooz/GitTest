@@ -29,6 +29,6 @@ namespace GitTest
         {
             MessageBox.Show("Привет!");
         }
-        // Новая ветка My tttttttttt
+        // Новая ветка My
     }
 }
